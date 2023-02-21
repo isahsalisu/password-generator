@@ -66,6 +66,5 @@ There were a few challenges I encountered while making this password generator. 
 here were a few challenges I ran into making this password generator. I had a hard time trying to figure out how to ensure the user input a password length between 10 and 64 characters.
 
 
-T
 ## License
  MIT - 2022
